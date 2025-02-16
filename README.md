@@ -11,6 +11,10 @@ a. A home page (/) to display the list of items.
 
 b. A details page (/item/:id) to show more details about a specific item
 when clicked.ie.,(/users/:id)
+![image](https://github.com/user-attachments/assets/daf205e0-f681-4648-93c9-524138fd099b)
+
+
+
 5. Search and Filter:
 • Add a search bar to filter the list of items based on a specific field (e.g.,
 name, title, or type).

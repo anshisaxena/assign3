@@ -28,7 +28,7 @@ const FetchCards = () => {
 
   return (
     <div className="max-w-6xl mx-auto p-6">
-      <h1 className="text-3xl font-bold text-center mb-6">API Data Cards</h1>
+      <h1 className="text-3xl font-bold text-center mb-6">User Data Cards</h1>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
         {posts.map((post) => (
           <div key={post.id} className="bg-white shadow-lg rounded-2xl p-5 border">

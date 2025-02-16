@@ -13,6 +13,7 @@ b. A details page (/item/:id) to show more details about a specific item
 when clicked.ie.,(/users/:id)
 ![image](https://github.com/user-attachments/assets/daf205e0-f681-4648-93c9-524138fd099b)
 
+![image](https://github.com/user-attachments/assets/124a29c1-ba30-4b9a-bdc4-db2c9c1d2899)
 
 
 5. Search and Filter:
